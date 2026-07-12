@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://courses.nfpeaccountingpros.com/sitemap.xml
+
+Sitemap: https://nfpaccountingpros.com/sitemap.xml
